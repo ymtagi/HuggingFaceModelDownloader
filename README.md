@@ -2,8 +2,6 @@
 
 <img src="ModelDownloader-AppIcon.png" title="" alt="Product Logo" data-align="center">
 
-[Click](https://github.com/ymtagi/HuggingFaceModelDownloader/releases/download/release%2F1.0/ModelDownloader.zip) to download ModelDownloader
-
 ## Overview
 
 HuggingFace large language models downloader for macOS, simple & powerful.
